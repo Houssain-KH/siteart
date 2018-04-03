@@ -6,7 +6,7 @@
 	h1{
 		font-weight: 300;
 		padding-top: 40px;
-		color: #482C14;
+		color: #906A4E;
 	}
 
 	.navbar {
@@ -32,7 +32,7 @@
     text-decoration:none;
 }
 .index-content{
-    margin-bottom:20px;
+   
     padding:50px 0px;
     
 }
@@ -93,7 +93,7 @@
 }
 
 .footer{
-	background-color: #482C14;
+	background-color:#906A4E;
 }
 h2{
 	padding: 40px;
@@ -101,7 +101,7 @@ h2{
 }
 
 .nav-link{
-	color: #482C14 !important;
+	color: #906A4E !important;
 }
 .nav-link:hover{
 	color: #CCAC95 !important;
@@ -109,4 +109,8 @@ h2{
 
 .card{
     margin-bottom: 20px;
+}
+
+.seconde {
+    background-color: #F1F1F1;
 }
